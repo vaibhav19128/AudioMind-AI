@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16%2B%20%2F%20Keras%203-orange.svg?logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 **AudioMind AI** is an end-to-end deep learning project designed to learn, model, and compose polyphonic musical arrangements. Built using Python, Keras/TensorFlow, and `music21`, the system processes raw MIDI datasets, encodes notes and chords into symbolic sequences, trains a recurrent Long Short-Term Memory (LSTM) network, and delivers an interactive studio interface powered by Streamlit and Magenta.js.
 
